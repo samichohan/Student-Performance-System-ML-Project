@@ -2,7 +2,7 @@
 
 A machine learning-based web application that predicts a student's overall academic performance grade (A–F) using key academic activity metrics such as attendance, assignment completion, test scores, practical scores, and exam scores. Built with XGBoost and deployed as an interactive dark-themed web app using Streamlit.
 
-🔗 **Live Demo:** [Add your Streamlit app link here]
+🔗 **Live Demo:** https://student-performance-system-ml-project-app.streamlit.app/
 
 ---
 
